@@ -97,3 +97,4 @@ export DOCKER_HOST=''
 
 #mkBanner "-" "50" "MAINTAINER : Abhishek Arora / Code: git@bhishekarora"
 
+echo " Please check readme section on how to enable remote daemon support for docker"
