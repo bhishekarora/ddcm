@@ -19,9 +19,9 @@ will ask for sudo if doing with a normal user.
 Follow the instructions
 
 
-==============================
+
 Sample run 
-==================
+
 --------------------------------------------------
  Docker Data Container Directory  Migrator 
 --------------------------------------------------
